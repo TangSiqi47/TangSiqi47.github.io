@@ -6,16 +6,16 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/MarvinSchmittML
+      href: https://github.com/TangSiqi47/TangSiqi47.github.io
     - icon: github
       text: Github
-      href: https://github.com/em24a-004guoxiaoshuang/em24a-004guoxioshuang01
+      href: https://github.com/TangSiqi47/TangSiqi47.github.io
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      href: https://github.com/TangSiqi47/TangSiqi47.github.io
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: https://github.com/TangSiqi47/TangSiqi47.github.io 
 ---
 
 ::: {#about-block}
