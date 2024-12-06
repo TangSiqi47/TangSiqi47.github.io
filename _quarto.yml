@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "GuoXiaoshuang"                                # Your name
-  description: "GuoXiaoshuang is a student of BSU"   # A brief slogan (optional)
+  title: "TangSiqi"                                # Your name
+  description: "TangSiqi is a student of BSU"   # A brief slogan (optional)
   image: img/xiazai.jpg
   
   favicon: img/favicon.png
